@@ -1,0 +1,17 @@
+.img {
+    width: 80px;
+    height: 80px;
+}
+.contact_info {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    gap: 25px;
+}
+.title__sub-block_2 {
+    margin-top: 25px;
+    margin-left: -310px;
+}
+.info_info {
+    margin-top: 25px;
+}

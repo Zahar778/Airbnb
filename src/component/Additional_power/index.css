@@ -1,0 +1,14 @@
+
+
+
+.additional_power {
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+.h1_title {
+    color: #000;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 25px;
+}

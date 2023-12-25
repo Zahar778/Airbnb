@@ -1,0 +1,22 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.section__header {
+    display: flex;
+    gap: 25px;
+}
+.section__value {
+    display: flex;
+    gap: 25px;
+}
+.section__list {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.mamylove {
+    list-style-type: none;
+}

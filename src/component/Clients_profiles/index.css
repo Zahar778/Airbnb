@@ -1,0 +1,8 @@
+.div {
+    display: flex;
+    justify-content: space-between;
+}
+.room_1 {
+    display: flex;
+    gap: 25px;
+}

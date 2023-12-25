@@ -1,0 +1,7 @@
+
+
+.section_list {
+    margin-top: 25px;
+    display: grid;
+    gap: 12px;
+}
